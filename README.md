@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @RazerFord
-- 👀 I’m interested in php, golang
-- 🌱 I’m currently learning redis, golang
+- 👀 I’m interested in C++
+- 🌱 I’m currently learning
