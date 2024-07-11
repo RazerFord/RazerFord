@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @RazerFord
-- 👀 I’m interested in C++, Kotlin, Java, Golang, Python, PHP, Haskell
-- 🌱 I’m currently learning at the best master's degree
+- 👀 I’m interested in C++, Kotlin, Java, Golang, Python, PHP
+- 🌱 Now I have completed the best master's degree
